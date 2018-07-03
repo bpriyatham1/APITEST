@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite">
+              <span class="suite-name border-failed">API HelloFresh Challenge Test Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-API_HelloFresh_Challenge_Test_Suite">
+                    <span>C:\Users\Priyatham.Bolli\Documents\APITEST\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-API_HelloFresh_Challenge_Test_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-API_HelloFresh_Challenge_Test_Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-API_HelloFresh_Challenge_Test_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-API_HelloFresh_Challenge_Test_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-API_HelloFresh_Challenge_Test_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-API_HelloFresh_Challenge_Test_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">7 methods, 1 failed,   6 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" class="hide-methods failed suite-API_HelloFresh_Challenge_Test_Suite"> (hide)</a> <!-- hide-methods failed suite-API_HelloFresh_Challenge_Test_Suite -->
+                      <a href="#" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" class="show-methods failed suite-API_HelloFresh_Challenge_Test_Suite"> (show)</a> <!-- show-methods failed suite-API_HelloFresh_Challenge_Test_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-API_HelloFresh_Challenge_Test_Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="tryCreateNewCountry">tryCreateNewCountry</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-API_HelloFresh_Challenge_Test_Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" class="hide-methods passed suite-API_HelloFresh_Challenge_Test_Suite"> (hide)</a> <!-- hide-methods passed suite-API_HelloFresh_Challenge_Test_Suite -->
+                      <a href="#" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" class="show-methods passed suite-API_HelloFresh_Challenge_Test_Suite"> (show)</a> <!-- show-methods passed suite-API_HelloFresh_Challenge_Test_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-API_HelloFresh_Challenge_Test_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="GetAllCountries">GetAllCountries</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="validateGetAllCountries">validateGetAllCountries</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="validateIndividualCountry(Germany, DE)">validateIndividualCountry(Germany, DE)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="validateIndividualCountry(Great Britain, GB)">validateIndividualCountry(Great Britain, GB)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="validateIndividualCountry(United States, US)">validateIndividualCountry(United States, US)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_HelloFresh_Challenge_Test_Suite" title="com.hellofresh.apitest.TestRestService" hash-for-method="validateResponseForInexistentCountry">validateResponseForInexistentCountry</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-API_HelloFresh_Challenge_Test_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-API_HelloFresh_Challenge_Test_Suite" class="panel API_HelloFresh_Challenge_Test_Suite">
+          <div class="suite-API_HelloFresh_Challenge_Test_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.hellofresh.apitest.TestRestService</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="tryCreateNewCountry">
+                  </a> <!-- tryCreateNewCountry -->
+                  <span class="method-name">tryCreateNewCountry</span>
+                  <div class="stack-trace">java.lang.AssertionError: 1 expectation failed.
+Expected status code &lt;201&gt; doesn&apos;t match actual status code &lt;200&gt;.
+
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:84)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:60)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:235)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:247)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:451)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$2.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:613)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:210)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:59)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:166)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:120)
+	at io.restassured.specification.ResponseSpecification$statusCode$1.callCurrent(Unknown Source)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:128)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)
+	at com.hellofresh.apitest.TestRestService.tryCreateNewCountry(TestRestService.java:87)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 20 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_HelloFresh_Challenge_Test_Suite-class-failed -->
+          <div class="suite-API_HelloFresh_Challenge_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.hellofresh.apitest.TestRestService</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="GetAllCountries">
+                  </a> <!-- GetAllCountries -->
+                  <span class="method-name">GetAllCountries</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateGetAllCountries">
+                  </a> <!-- validateGetAllCountries -->
+                  <span class="method-name">validateGetAllCountries</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateIndividualCountry(Germany, DE)">
+                  </a> <!-- validateIndividualCountry(Germany, DE) -->
+                  <span class="method-name">validateIndividualCountry</span>
+                  <span class="parameters">(Germany, DE)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateIndividualCountry(Great Britain, GB)">
+                  </a> <!-- validateIndividualCountry(Great Britain, GB) -->
+                  <span class="method-name">validateIndividualCountry</span>
+                  <span class="parameters">(Great Britain, GB)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateIndividualCountry(United States, US)">
+                  </a> <!-- validateIndividualCountry(United States, US) -->
+                  <span class="method-name">validateIndividualCountry</span>
+                  <span class="parameters">(United States, US)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateResponseForInexistentCountry">
+                  </a> <!-- validateResponseForInexistentCountry -->
+                  <span class="method-name">validateResponseForInexistentCountry</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_HelloFresh_Challenge_Test_Suite-class-passed -->
+        </div> <!-- panel API_HelloFresh_Challenge_Test_Suite -->
+        <div panel-name="test-xml-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Priyatham.Bolli\Documents\APITEST\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;API HelloFresh Challenge Test Suite&quot;&gt;
+  &lt;test thread-count=&quot;3&quot; name=&quot;APIRegresssionSuite&quot; parallel=&quot;methods&quot;&gt;
+    &lt;packages&gt;
+      &lt;package name=&quot;.*&quot;/&gt;
+    &lt;/packages&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.hellofresh.apitest.TestRestService&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- APIRegresssionSuite --&gt;
+&lt;/suite&gt; &lt;!-- API HelloFresh Challenge Test Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for API HelloFresh Challenge Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">APIRegresssionSuite (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for API HelloFresh Challenge Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for API HelloFresh Challenge Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_API_HelloFresh_Challenge_Test_Suite');
+function tableData_API_HelloFresh_Challenge_Test_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(7);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'validateGetAllCountries')
+data.setCell(0, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(0, 3, 2406);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'GetAllCountries')
+data.setCell(1, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(1, 3, 1594);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'tryCreateNewCountry')
+data.setCell(2, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(2, 3, 1562);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'validateIndividualCountry')
+data.setCell(3, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(3, 3, 1252);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'validateResponseForInexistentCountry')
+data.setCell(4, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(4, 3, 703);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'validateIndividualCountry')
+data.setCell(5, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(5, 3, 625);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'validateIndividualCountry')
+data.setCell(6, 2, 'com.hellofresh.apitest.TestRestService')
+data.setCell(6, 3, 625);
+window.suiteTableData['API_HelloFresh_Challenge_Test_Suite']= { tableData: data, tableDiv: 'times-div-API_HelloFresh_Challenge_Test_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 8 seconds</span>
+              <div id="times-div-API_HelloFresh_Challenge_Test_Suite">
+              </div> <!-- times-div-API_HelloFresh_Challenge_Test_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for API HelloFresh Challenge Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">validateResponseForInexistentCountry</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Successfully validated API response for inexistent country.
+</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">validateGetAllCountries</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Successfully validated multiple countries in the response.
+</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-API_HelloFresh_Challenge_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.hellofresh.apitest.TestRestService</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">setup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">GetAllCountries</span>
+                <span class="method-start">469 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">tryCreateNewCountry</span>
+                <span class="method-start">469 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateGetAllCountries</span>
+                <span class="method-start">469 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateResponseForInexistentCountry</span>
+                <span class="method-start">2172 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateIndividualCountry(Great Britain, GB)</span>
+                <span class="method-start">2235 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateIndividualCountry(Germany, DE)</span>
+                <span class="method-start">2235 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateIndividualCountry(United States, US)</span>
+                <span class="method-start">2250 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

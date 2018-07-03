@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [API HelloFresh Challenge Test Suite]">
+  <test name="APIRegresssionSuite(failed)" parallel="methods">
+    <classes>
+      <class name="com.hellofresh.apitest.TestRestService">
+        <methods>
+          <include name="setup"/>
+          <include name="tryCreateNewCountry"/>
+        </methods>
+      </class> <!-- com.hellofresh.apitest.TestRestService -->
+    </classes>
+  </test> <!-- APIRegresssionSuite(failed) -->
+</suite> <!-- Failed suite [API HelloFresh Challenge Test Suite] -->

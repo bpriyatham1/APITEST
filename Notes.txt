@@ -1,0 +1,10 @@
+Run this command from command Prompt 
+=============================================================
+mvn surefire-report:report site -DgenerateReports=false
+=============================================================
+It will generate Surefire Maven report in below folder
+\target\site\surefire-report.html
+=============================================================
+Logs are in log Folder
+with HTML and new file
+=============================================================

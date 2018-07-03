@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.16 sec <<< FAILURE! - in TestSuite
+tryCreateNewCountry(com.hellofresh.apitest.TestRestService)  Time elapsed: 3.331 sec  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <201> doesn't match actual status code <200>.
+
+	at com.hellofresh.apitest.TestRestService.tryCreateNewCountry(TestRestService.java:87)
+

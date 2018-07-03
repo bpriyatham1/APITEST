@@ -1,0 +1,622 @@
+2018-07-01 17:13:10,120 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:13:22,553 [main] INFO com.hellofresh.challenge.TestBase - Launching Application url in Chrome Browser
+2018-07-01 17:13:22,563 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:18:10,255 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:18:20,133 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:18:20,143 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:18:28,189 [main] INFO com.hellofresh.challenge.TestBase - *********************Ending Exection of Test :***********************
+2018-07-01 17:20:38,902 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:20:48,126 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:20:48,139 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:20:48,139 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 17:20:56,756 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:21:06,799 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:21:06,801 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 17:21:10,926 [main] INFO com.hellofresh.challenge.TestBase - *********************Ending Exection of Test :***********************
+2018-07-01 17:27:32,373 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:27:48,143 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:27:48,151 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:27:48,151 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 17:27:58,379 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:37:13,655 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:37:13,668 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:37:13,668 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:37:13,668 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:37:13,668 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:37:22,491 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:37:22,500 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:37:22,501 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 17:37:29,964 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:37:29,979 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:37:29,979 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:37:29,980 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:37:29,980 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:37:39,636 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:37:39,637 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 17:37:43,738 [main] INFO com.hellofresh.challenge.TestBase - Ending Exection of Test Cases
+2018-07-01 17:44:56,632 [main] DEBUG com.hellofresh.challenge.TestBase - This is debug message
+2018-07-01 17:44:56,638 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:44:56,638 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:44:56,638 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:44:56,639 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:44:56,639 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:45:20,665 [main] DEBUG com.hellofresh.challenge.TestBase - This is debug message
+2018-07-01 17:45:20,670 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:45:20,670 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:45:20,670 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:45:20,671 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:45:20,671 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:45:30,921 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:45:30,931 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:45:30,931 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 17:45:38,808 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 17:45:38,852 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 17:45:41,747 [main] DEBUG com.hellofresh.challenge.TestBase - This is debug message
+2018-07-01 17:45:41,748 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:45:41,748 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:45:41,748 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:45:41,749 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:45:41,751 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:45:51,096 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:45:51,098 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 17:45:56,861 [main] INFO com.hellofresh.challenge.TestBase - Ending Exection of Test Cases
+2018-07-01 17:45:56,907 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_ZA", UTF-8, parsed); will try to load it.
+2018-07-01 17:45:56,909 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_ZA.ftl"): Not found
+2018-07-01 17:45:56,911 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-01 17:45:56,912 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-01 17:45:56,913 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_ZA", UTF-8, parsed) from "jar:file:/C:/Users/preeth/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-01 17:45:57,207 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_ZA", UTF-8, parsed); will try to load it.
+2018-07-01 17:45:57,208 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_ZA.ftl"): Not found
+2018-07-01 17:45:57,208 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-01 17:45:57,209 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-01 17:45:57,209 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_ZA", UTF-8, parsed) from "jar:file:/C:/Users/preeth/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-01 17:49:41,380 [main] DEBUG com.hellofresh.challenge.TestBase - This is debug message
+2018-07-01 17:49:41,386 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:49:41,386 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:49:41,386 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:49:41,387 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:49:41,387 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:49:54,867 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:49:54,872 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:49:54,872 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:49:54,872 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:49:54,873 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:50:01,245 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:50:01,283 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:50:01,287 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 17:59:08,643 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:59:08,658 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:59:08,659 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:59:08,659 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:59:08,660 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:59:20,118 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:59:20,128 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 17:59:20,129 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 17:59:27,767 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 17:59:27,810 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 17:59:28,604 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 17:59:28,604 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 17:59:28,604 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 17:59:28,605 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 17:59:28,605 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 17:59:37,448 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 17:59:37,452 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 17:59:41,286 [main] INFO com.hellofresh.challenge.TestBase - Ending Exection of Test Cases
+2018-07-01 18:04:53,945 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:04:53,950 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:04:53,951 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:04:53,951 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:04:53,951 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:05:04,056 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:05:04,068 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:05:04,068 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:05:11,072 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:05:11,213 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 18:05:12,246 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:05:12,247 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:05:12,247 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:05:12,248 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:05:12,248 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:05:22,964 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:05:22,967 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:05:28,441 [main] INFO com.hellofresh.challenge.TestBase - Ending Exection of Test Cases
+2018-07-01 18:11:17,687 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:11:17,704 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:11:17,704 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:11:17,704 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:11:17,704 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:11:55,006 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:11:55,014 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:11:55,014 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:11:55,015 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:11:55,015 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:12:07,974 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:12:07,989 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:12:07,990 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:12:15,326 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:12:16,612 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:12:16,618 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:12:16,618 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:12:16,619 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:12:16,620 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:12:25,647 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:12:25,649 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:12:28,773 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 18:12:29,491 [main] INFO com.hellofresh.challenge.TestBase - Ending Exection of Test Cases
+2018-07-01 18:23:12,998 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:23:13,002 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:23:13,002 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:23:13,002 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:23:13,003 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:23:22,173 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:24:42,253 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:24:42,258 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:24:42,259 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:24:42,259 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:24:42,260 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:24:53,579 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:24:53,591 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:24:53,591 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:25:01,167 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:25:02,511 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:25:02,512 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:25:02,513 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:25:02,513 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:25:02,514 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:25:11,377 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:25:11,379 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:25:14,612 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 18:37:07,187 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:37:07,192 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:37:07,192 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:37:07,193 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:37:07,193 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:37:15,642 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:37:15,651 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:37:15,652 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:37:23,922 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:37:23,923 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:37:23,923 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:37:23,923 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:37:23,924 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:37:32,368 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:37:32,370 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:37:35,429 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 18:47:14,827 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:47:14,833 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:47:14,834 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:47:14,834 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:47:14,835 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:47:23,659 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:47:23,669 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:47:23,670 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:47:31,032 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:47:32,222 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:47:32,222 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:47:32,222 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:47:32,223 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:47:32,223 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:47:43,082 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:47:43,084 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:47:46,269 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 18:48:19,307 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:48:19,318 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:48:19,319 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:48:19,319 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:48:19,320 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:48:32,524 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:48:32,536 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:48:32,536 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:48:39,643 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:48:39,687 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 18:51:14,788 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:51:14,803 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:51:14,803 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:51:14,803 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:51:14,803 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:51:23,833 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:51:23,842 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:51:23,843 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:51:30,559 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:51:30,603 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 18:51:31,485 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:51:31,485 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:51:31,485 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:51:31,501 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:51:31,501 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:51:39,669 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:51:39,672 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:51:42,644 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 18:53:39,048 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:53:39,058 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:53:39,058 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:53:39,058 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:53:39,058 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:53:48,843 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:53:48,853 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:53:48,853 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:53:55,473 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:53:55,519 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 18:53:58,425 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:53:58,434 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:53:58,435 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:53:58,435 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:53:58,436 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:54:07,642 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:54:07,647 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:54:10,799 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 18:58:37,642 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:58:37,654 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:58:37,655 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:58:37,655 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:58:37,655 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:58:46,541 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:58:46,554 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 18:58:46,555 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 18:58:53,358 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 18:58:53,397 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 18:58:54,345 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 18:58:54,361 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 18:58:54,362 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 18:58:54,362 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 18:58:54,363 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 18:59:02,263 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 18:59:02,266 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 18:59:05,509 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 19:00:35,361 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:00:35,377 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:00:35,377 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:00:35,377 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:00:35,377 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:00:43,661 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:00:43,670 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:00:43,670 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:00:50,324 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 19:00:50,360 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 19:00:51,220 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:00:51,220 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:00:51,220 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:00:51,220 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:00:51,236 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:00:59,061 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:00:59,064 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 19:01:02,115 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 19:03:30,175 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:03:30,187 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:03:30,187 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:03:30,187 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:03:30,187 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:03:39,603 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:03:39,611 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:03:39,612 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:03:46,613 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 19:03:46,647 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 19:03:47,533 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:03:47,533 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:03:47,533 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:03:47,533 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:03:47,533 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:03:55,226 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:03:55,229 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 19:03:58,476 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 19:07:32,332 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:07:32,351 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:07:32,351 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:07:32,351 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:07:32,351 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:07:52,173 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:07:52,187 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:07:52,187 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:07:52,187 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:07:52,187 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:08:31,158 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:08:31,164 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:08:31,164 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:08:31,165 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:08:31,165 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:08:54,391 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:08:54,399 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:08:54,399 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:08:54,399 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:08:54,399 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:09:08,067 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:09:08,080 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:09:08,080 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:09:17,007 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 19:09:17,041 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 19:09:18,119 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:09:18,119 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:09:18,120 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:09:18,120 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:09:18,121 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:10:00,471 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:10:00,480 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:10:00,480 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:10:00,480 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:10:00,480 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:10:10,777 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:10:10,787 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:10:10,788 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:10:17,933 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 19:10:17,967 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 19:10:18,855 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:10:18,870 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:10:18,870 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:10:18,870 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:10:18,870 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:10:28,471 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:10:28,474 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 19:10:31,423 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 19:33:18,195 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:33:18,204 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:33:18,204 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:33:18,204 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:33:18,204 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:33:31,444 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:33:31,454 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:33:31,455 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:49:26,803 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:49:26,822 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:49:26,822 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:49:26,822 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:49:26,822 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:49:37,883 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:49:37,891 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:49:37,892 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:49:44,683 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 19:49:44,727 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 19:49:45,609 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:49:45,609 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:49:45,609 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:49:45,609 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:49:45,609 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:49:53,708 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:49:53,722 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:49:53,722 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:49:53,722 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:49:53,722 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 19:50:03,112 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 19:50:03,120 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 19:50:03,120 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 19:50:09,910 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 19:50:09,953 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 19:50:10,872 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 19:50:10,872 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 19:50:10,872 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 19:50:10,872 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 19:50:10,872 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 20:02:36,167 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 20:02:36,173 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 20:02:36,173 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 20:02:36,173 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 20:02:36,174 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 20:02:45,080 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 20:04:24,379 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 20:04:24,384 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 20:04:24,384 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 20:04:24,384 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 20:04:24,385 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 20:04:32,980 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 20:04:32,988 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 20:04:32,989 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 20:04:40,188 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 20:04:40,189 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 20:04:40,954 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 20:04:40,955 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 20:04:40,955 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 20:04:40,956 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 20:04:40,956 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 20:04:48,998 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 20:04:49,001 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 20:04:51,916 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 20:33:29,882 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 20:33:29,887 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 20:33:29,887 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 20:33:29,888 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 20:33:29,888 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 20:33:39,250 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 20:33:39,260 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 20:33:39,261 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 20:33:46,750 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 20:33:46,828 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 20:33:47,791 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 20:33:47,792 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 20:33:47,792 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 20:33:47,792 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 20:33:47,792 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 20:33:55,894 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 20:33:55,897 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 20:33:59,240 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-01 21:52:19,328 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 21:52:19,343 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 21:52:19,344 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 21:52:19,344 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 21:52:19,344 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 21:52:32,704 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 21:52:32,717 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-01 21:52:32,718 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-01 21:52:41,329 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-01 21:52:41,367 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-01 21:52:42,463 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-01 21:52:42,472 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-01 21:52:42,473 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-01 21:52:42,474 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-01 21:52:42,474 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-01 21:52:54,888 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-01 21:52:54,891 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-01 21:52:58,516 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-02 10:57:40,263 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 10:57:40,269 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 10:57:40,269 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 10:57:40,269 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 10:57:40,270 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 10:57:48,577 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 10:57:48,583 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-02 10:57:48,584 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-02 10:57:53,980 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-02 10:57:54,014 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-02 10:57:54,783 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 10:57:54,783 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 10:57:54,783 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 10:57:54,783 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 10:57:54,784 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 10:58:02,208 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 10:58:02,209 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 10:58:05,207 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-02 11:19:36,831 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:19:36,838 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:19:36,838 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:19:36,839 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:19:36,839 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:19:45,337 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:19:45,341 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-02 11:19:45,341 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-02 11:19:50,855 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-02 11:19:50,855 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-02 11:19:51,563 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:19:51,563 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:19:51,563 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:19:51,564 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:19:51,564 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:19:57,587 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:19:57,588 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 11:20:00,076 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-02 11:21:18,220 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:21:18,225 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:21:18,225 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:21:18,226 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:21:18,226 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:21:26,827 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:21:26,831 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-02 11:21:26,831 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-02 11:21:32,690 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-02 11:21:32,690 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-02 11:21:33,392 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:21:33,392 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:21:33,392 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:21:33,393 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:21:33,393 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:21:39,275 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:21:39,277 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 11:21:41,680 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-02 11:21:42,600 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:21:42,600 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:21:42,600 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:21:42,600 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:21:42,601 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:21:48,723 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:21:48,723 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'checkoutTest' Method:
+2018-07-02 11:32:35,528 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:32:35,533 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:32:35,533 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:32:35,533 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:32:35,533 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:32:42,769 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:32:42,776 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 11:33:26,673 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:33:26,676 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:33:26,677 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:33:26,677 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:33:26,677 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:33:33,945 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:33:33,950 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 11:34:04,696 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:34:04,699 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:34:04,700 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:34:04,700 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:34:04,700 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:34:11,765 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:34:11,772 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 11:34:14,856 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-02 11:36:07,192 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:36:07,196 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:36:07,196 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:36:07,196 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:36:07,197 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:36:14,393 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:36:14,401 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'logInTest' Method:
+2018-07-02 11:36:17,574 [main] INFO com.hellofresh.challenge.TestBase - Ending Execution of 'logInTest' Method:
+2018-07-02 11:36:31,240 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:36:31,243 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:36:31,244 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:36:31,244 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:36:31,244 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:36:38,687 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:36:38,698 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-02 11:36:38,698 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-02 11:36:48,789 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-02 11:36:48,790 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-02 11:37:21,583 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:37:21,591 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:37:21,591 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:37:21,591 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:37:21,593 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:37:31,541 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:37:31,546 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-02 11:37:31,546 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-02 11:37:36,919 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-02 11:37:36,920 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-02 11:37:53,943 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:37:53,946 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:37:53,947 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:37:53,947 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:37:53,947 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:38:01,096 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:38:01,104 [main] INFO com.hellofresh.challenge.TestBase - Executing :class com.hellofresh.challenge.WebTest:
+2018-07-02 11:38:01,104 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'signInTest' Method:
+2018-07-02 11:38:06,446 [main] INFO com.hellofresh.challenge.TestBase - Asserting text from heading
+2018-07-02 11:38:06,447 [main] INFO com.hellofresh.challenge.TestBase - Asserting surname and firstname from LoggedIN username
+2018-07-02 11:56:59,123 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 11:56:59,128 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 11:56:59,128 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 11:56:59,128 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 11:56:59,128 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 11:57:07,509 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 11:57:07,516 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'checkoutTest' Method:
+2018-07-02 12:08:45,588 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 12:08:45,592 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 12:08:45,592 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 12:08:45,592 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 12:08:45,593 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 12:08:53,091 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 12:08:53,096 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'checkoutTest' Method:
+2018-07-02 12:09:42,323 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 12:09:42,326 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 12:09:42,326 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 12:09:42,326 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 12:09:42,326 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 12:09:56,545 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 12:09:56,553 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'checkoutTest' Method:
+2018-07-02 12:15:10,474 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 12:15:10,477 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 12:15:10,477 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 12:15:10,477 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 12:15:10,477 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 12:15:17,777 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 12:15:17,783 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'checkoutTest' Method:
+2018-07-02 12:16:31,608 [main] INFO com.hellofresh.challenge.TestBase - This is info message
+2018-07-02 12:16:31,615 [main] WARN com.hellofresh.challenge.TestBase - This is warn message
+2018-07-02 12:16:31,615 [main] FATAL com.hellofresh.challenge.TestBase - This is fatal message
+2018-07-02 12:16:31,615 [main] ERROR com.hellofresh.challenge.TestBase - This is error message
+2018-07-02 12:16:31,616 [main] INFO com.hellofresh.challenge.TestBase - Launching Chrome Browser
+2018-07-02 12:16:39,665 [main] INFO com.hellofresh.challenge.TestBase - Launching Application in Chrome Browser
+2018-07-02 12:16:39,666 [main] INFO com.hellofresh.challenge.TestBase - Starting Execution of 'checkoutTest' Method:
+2018-07-02 12:52:29,773 [main] INFO com.hellofresh.apitest.TestRestService - This is info message
+2018-07-02 12:52:29,778 [main] WARN com.hellofresh.apitest.TestRestService - This is warn message
+2018-07-02 12:52:29,778 [main] FATAL com.hellofresh.apitest.TestRestService - This is fatal message
+2018-07-02 12:52:29,779 [main] ERROR com.hellofresh.apitest.TestRestService - This is error message
+2018-07-02 12:59:24,332 [main] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 12:59:58,566 [main] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 12:59:59,096 [main] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:21:24,256 [TestNG-test=apitestsuite-2] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:21:24,287 [TestNG-test=apitestsuite-3] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 13:22:03,950 [main] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 13:22:04,492 [main] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:25:07,897 [TestNG-test=APIRegresssionSuite-3] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 13:25:07,905 [TestNG-test=APIRegresssionSuite-1] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:30:12,987 [TestNG-test=APIRegresssionSuite-3] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 13:30:12,990 [TestNG-test=APIRegresssionSuite-2] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:49:50,242 [TestNG-test=APIRegresssionSuite-2] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:49:50,244 [TestNG-test=APIRegresssionSuite-3] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
+2018-07-02 13:50:05,076 [TestNG-test=APIRegresssionSuite-2] INFO com.hellofresh.apitest.TestRestService - Successfully validated API response for inexistent country.
+2018-07-02 13:50:05,076 [TestNG-test=APIRegresssionSuite-3] INFO com.hellofresh.apitest.TestRestService - Successfully validated multiple countries in the response.
